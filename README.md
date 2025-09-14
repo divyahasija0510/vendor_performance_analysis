@@ -128,7 +128,7 @@ vendor-performance-analysis/
 
 1. Create the repository:
 ```bash
- https://github.com/divyahasija0510/vendor-performance-analysis.git
+ https://github.com/divyahasija0510/vendor_performance_analysis.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
